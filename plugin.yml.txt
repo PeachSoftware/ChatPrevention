@@ -1,0 +1,6 @@
+name: ChatPreventionPlus
+main: me.MightyDiamond.ChatPreventionPlus.Main
+version: 1.0.1
+author: MightyDiamond
+soft-depend: [Essentials, PermissionsEx, Multiverse-Core, ProtocolLib, Towny, Factions, GroupManager, bPermissions]
+commands:
