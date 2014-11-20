@@ -1,0 +1,6 @@
+bannedwords:
+  - fuck
+  - shit
+  - bitch
+  - penis
+  - dick
