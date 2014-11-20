@@ -7,7 +7,7 @@ You may use this code for your plugin, but you must give credit to ye old' Confi
 
 ====================================================================================================================================================
 
-If you are going to post this on the Spigot Resources page, then, put me as a Contributor in your plugin! :) (usewrname = configurationguy)
+If you are going to post this on the Spigot Resources page, then, put me as a Contributor in your plugin! :) (username = configurationguy)
 
 ====================================================================================================================================================
 
