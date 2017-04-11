@@ -4,3 +4,6 @@ bannedwords:
   - bitch
   - penis
   - dick
+  - fuck you
+  - ass
+  - vagina
