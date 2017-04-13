@@ -4,3 +4,8 @@ bannedwords:
   - bitch
   - penis
   - dick
+  - motherfucker
+  - dumm
+  - arsch
+  - arschloch
+  - missgeburt
